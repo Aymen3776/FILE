@@ -8,4 +8,4 @@ cd FILE
 python FILE.py
 ```
 
-* ENJOY🥵🔥
+* L9IRCH *🥵🔥
